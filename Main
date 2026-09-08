@@ -1,0 +1,402 @@
+[
+  {
+    "soal": "Sebutkan hal yang biasa dilakukan orang saat bangun tidur!",
+    "jawaban": ["mandi", "minum", "main hp", "cuci muka", "kencing", "merentangkan tangan", "berdoa"]
+  },
+  {
+    "soal": "Sebutkan buah yang sering dijadikan jus!",
+    "jawaban": ["mangga", "alpukat", "jeruk", "apel", "sirsak", "jambu", "melon", "tomat"]
+  },
+  {
+    "soal": "Sebutkan benda yang biasanya ada di dalam tas sekolah!",
+    "jawaban": ["buku", "pulpen", "pensil", "penghapus", "penggaris", "kotak pensil", "bekal", "tipe x"]
+  },
+  {
+    "soal": "Sebutkan transportasi umum yang sering digunakan di Indonesia!",
+    "jawaban": ["angkot", "bus", "kereta", "ojek", "taksi", "pesawat", "kapal"]
+  },
+  {
+    "soal": "Sebutkan hewan yang sering dijadikan peliharaan di rumah!",
+    "jawaban": ["kucing", "anjing", "burung", "ikan", "kelinci", "hamster"]
+  },
+  {
+    "soal": "Sebutkan benda yang ada di dalam kamar mandi!",
+    "jawaban": ["sabun", "sampo", "sikat gigi", "gayung", "ember", "pasta gigi", "handuk"]
+  },
+  {
+    "soal": "Sebutkan sayuran yang berwarna hijau!",
+    "jawaban": ["bayam", "kangkung", "brokoli", "sawi", "kacang panjang", "buncis"]
+  },
+  {
+    "soal": "Sebutkan profesi yang memakai seragam!",
+    "jawaban": ["polisi", "tentara", "dokter", "perawat", "satpam", "pilot", "pramugari"]
+  },
+  {
+    "soal": "Sebutkan benda yang sering dibawa saat ke pantai!",
+    "jawaban": ["kacamata", "topi", "sunblock", "baju renang", "tikar", "kamera", "sandal"]
+  },
+  {
+    "soal": "Sebutkan olahraga yang menggunakan bola!",
+    "jawaban": ["sepak bola", "basket", "voli", "kasti", "tenis", "golf", "futsal"]
+  },
+  {
+    "soal": "Sebutkan makanan berkuah yang disukai orang Indonesia!",
+    "jawaban": ["bakso", "soto", "mie ayam", "sayur asem", "seblak", "sop"]
+  },
+  {
+    "soal": "Sebutkan alat atau bumbu yang ada di dapur!",
+    "jawaban": ["pisau", "panci", "wajan", "garam", "gula", "kompor", "spatula"]
+  },
+  {
+    "soal": "Sebutkan alat musik yang cara mainnya dipetik!",
+    "jawaban": ["gitar", "ukulele", "harpa", "bass", "kecapi", "sasando"]
+  },
+  {
+    "soal": "Sebutkan warna pelangi!",
+    "jawaban": ["merah", "jingga", "kuning", "hijau", "biru", "nila", "ungu"]
+  },
+  {
+    "soal": "Sebutkan hewan yang memiliki tanduk!",
+    "jawaban": ["sapi", "kambing", "kerbau", "rusa", "banteng", "badak"]
+  },
+  {
+    "soal": "Sebutkan sesuatu yang bisa memancarkan cahaya!",
+    "jawaban": ["lampu", "matahari", "senter", "lilin", "bintang", "api", "kunang-kunang"]
+  },
+  {
+    "soal": "Sebutkan tempat yang sering dijadikan tujuan wisata liburan!",
+    "jawaban": ["pantai", "gunung", "kebun binatang", "taman hiburan", "candi", "danau", "puncak"]
+  },
+  {
+    "soal": "Sebutkan rasa es krim yang paling populer!",
+    "jawaban": ["cokelat", "vanila", "stroberi", "matcha", "kopi", "durian"]
+  },
+  {
+    "soal": "Sebutkan benda yang ada di atas kasur!",
+    "jawaban": ["bantal", "guling", "selimut", "boneka", "sprei", "hp"]
+  },
+  {
+    "soal": "Sebutkan penyakit yang sering diderita orang!",
+    "jawaban": ["flu", "batuk", "demam", "pusing", "sakit perut", "sakit gigi", "masuk angin"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis sambal di Indonesia!",
+    "jawaban": ["terasi", "tomat", "bawang", "matah", "korek", "ijo", "geprek"]
+  },
+  {
+    "soal": "Sebutkan minuman yang sering dipesan di kafe!",
+    "jawaban": ["kopi", "teh", "latte", "cappuccino", "espresso", "matcha", "boba"]
+  },
+  {
+    "soal": "Sebutkan hewan yang hidup di laut!",
+    "jawaban": ["ikan", "hiu", "paus", "gurita", "cumi", "ubur-ubur", "bintang laut"]
+  },
+  {
+    "soal": "Sebutkan benda yang bisa terbang di langit!",
+    "jawaban": ["pesawat", "burung", "layang-layang", "helikopter", "balon udara", "drone"]
+  },
+  {
+    "soal": "Sebutkan nama-nama bunga yang harum!",
+    "jawaban": ["mawar", "melati", "anggrek", "kamboja", "kenanga", "sedap malam"]
+  },
+  {
+    "soal": "Sebutkan pekerjaan yang biasanya dikerjakan ibu rumah tangga!",
+    "jawaban": ["memasak", "mencuci", "menyapu", "menyetrika", "mengepel", "mengurus anak"]
+  },
+  {
+    "soal": "Sebutkan tempat umum yang harus selalu sepi/tenang!",
+    "jawaban": ["perpustakaan", "rumah sakit", "tempat ibadah", "kuburan", "bioskop"]
+  },
+  {
+    "soal": "Sebutkan kendaraan yang rodanya ada dua!",
+    "jawaban": ["sepeda", "motor", "skuter", "vespa", "sepeda listrik"]
+  },
+  {
+    "soal": "Sebutkan benda yang kerjanya berputar!",
+    "jawaban": ["kipas angin", "roda", "jam", "baling-baling", "kincir", "blender"]
+  },
+  {
+    "soal": "Sebutkan hobi yang dilakukan di luar ruangan!",
+    "jawaban": ["memancing", "mendaki", "bersepeda", "berkebun", "lari", "fotografi"]
+  },
+  {
+    "soal": "Sebutkan makanan ringan (snack) yang manis!",
+    "jawaban": ["cokelat", "permen", "biskuit", "wafer", "kue", "donat"]
+  },
+  {
+    "soal": "Sebutkan bagian tubuh manusia yang ada di wajah!",
+    "jawaban": ["mata", "hidung", "mulut", "telinga", "pipi", "alis", "dagu"]
+  },
+  {
+    "soal": "Sebutkan hewan berkaki empat!",
+    "jawaban": ["sapi", "kambing", "kuda", "gajah", "kucing", "anjing", "harimau"]
+  },
+  {
+    "soal": "Sebutkan bagian-bagian dari mobil!",
+    "jawaban": ["roda", "stir", "mesin", "pintu", "kaca", "jok", "knalpot"]
+  },
+  {
+    "soal": "Sebutkan jenis alas kaki!",
+    "jawaban": ["sandal", "sepatu", "sepatu hak", "boots", "pantofel", "sandal jepit"]
+  },
+  {
+    "soal": "Sebutkan olahraga yang dilakukan di air!",
+    "jawaban": ["renang", "polo air", "selancar", "menyelam", "arung jeram"]
+  },
+  {
+    "soal": "Sebutkan benda yang ada di atas meja kerja kantoran!",
+    "jawaban": ["komputer", "laptop", "kertas", "pulpen", "kalender", "cangkir kopi", "mouse"]
+  },
+  {
+    "soal": "Sebutkan benda yang terbuat dari karet!",
+    "jawaban": ["ban", "gelang", "penghapus", "sandal", "balon"]
+  },
+  {
+    "soal": "Sebutkan hewan selain burung yang bisa terbang!",
+    "jawaban": ["kelelawar", "kupu-kupu", "nyamuk", "lalat", "lebah", "capung"]
+  },
+  {
+    "soal": "Sebutkan menu sarapan orang Indonesia!",
+    "jawaban": ["nasi goreng", "bubur ayam", "lontong sayur", "nasi uduk", "roti", "mie rebus"]
+  },
+  {
+    "soal": "Sebutkan barang yang biasanya ada di dalam dompet!",
+    "jawaban": ["uang", "ktp", "sim", "kartu atm", "foto", "struk", "kartu kredit"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis perhiasan wanita!",
+    "jawaban": ["cincin", "kalung", "gelang", "anting", "bros"]
+  },
+  {
+    "soal": "Sebutkan benda yang mudah pecah!",
+    "jawaban": ["gelas", "piring", "kaca", "cermin", "vas", "lampu"]
+  },
+  {
+    "soal": "Sebutkan pekerjaan yang dilakukan di malam hari!",
+    "jawaban": ["satpam", "dokter", "polisi", "penjual nasi goreng", "ronda", "pekerja pabrik"]
+  },
+  {
+    "soal": "Sebutkan sesuatu yang berasa pedas!",
+    "jawaban": ["cabai", "sambal", "merica", "jahe", "wasabi", "saus"]
+  },
+  {
+    "soal": "Sebutkan tempat orang pacaran atau kencan!",
+    "jawaban": ["bioskop", "taman", "kafe", "mall", "pantai", "restoran"]
+  },
+  {
+    "soal": "Sebutkan sosok hantu lokal Indonesia!",
+    "jawaban": ["pocong", "kuntilanak", "tuyul", "genderuwo", "sundel bolong", "wewe gombel"]
+  },
+  {
+    "soal": "Sebutkan alat untuk membersihkan rumah!",
+    "jawaban": ["sapu", "pel", "kemoceng", "kain lap", "sikat", "vacuum cleaner"]
+  },
+  {
+    "soal": "Sebutkan jenis roti atau kue tradisional!",
+    "jawaban": ["klepon", "onde-onde", "pukis", "lumpur", "cucur", "putu", "apem"]
+  },
+  {
+    "soal": "Sebutkan barang yang ditaruh di dalam kulkas!",
+    "jawaban": ["sayur", "buah", "daging", "es batu", "susu", "minuman", "telur"]
+  },
+  {
+    "soal": "Sebutkan nama bagian dari sebuah pohon!",
+    "jawaban": ["akar", "batang", "ranting", "daun", "buah", "bunga"]
+  },
+  {
+    "soal": "Sebutkan barang yang biasa ada di kotak P3K!",
+    "jawaban": ["betadine", "perban", "plester", "kapas", "alkohol", "minyak kayu putih", "obat"]
+  },
+  {
+    "soal": "Sebutkan benda yang butuh kunci untuk membukanya!",
+    "jawaban": ["pintu", "gembok", "lemari", "brankas", "motor", "mobil"]
+  },
+  {
+    "soal": "Sebutkan macam-macam rasa keripik!",
+    "jawaban": ["asin", "pedas", "manis", "balado", "keju", "sapi panggang"]
+  },
+  {
+    "soal": "Sebutkan sesuatu yang terbuat dari kertas!",
+    "jawaban": ["buku", "koran", "uang", "kardus", "amplop", "tisu", "layangan"]
+  },
+  {
+    "soal": "Sebutkan barang yang disimpan dalam lemari pakaian!",
+    "jawaban": ["baju", "celana", "jaket", "selimut", "topi", "kaos kaki", "pakaian dalam"]
+  },
+  {
+    "soal": "Sebutkan makanan yang identik dengan acara hajatan/pernikahan!",
+    "jawaban": ["rendang", "sate", "sop", "kerupuk", "es krim", "bakso"]
+  },
+  {
+    "soal": "Sebutkan hewan yang berjalan dengan cara merayap!",
+    "jawaban": ["cicak", "ular", "kadal", "komodo", "tokek", "buaya"]
+  },
+  {
+    "soal": "Sebutkan benda yang berbentuk bulat bundar!",
+    "jawaban": ["bola", "ban", "kelereng", "donat", "uang koin", "jam dinding", "piring"]
+  },
+  {
+    "soal": "Sebutkan olahraga yang menggunakan raket!",
+    "jawaban": ["bulu tangkis", "tenis", "tenis meja", "squash"]
+  },
+  {
+    "soal": "Sebutkan benda yang biasanya ada di pasar tradisional!",
+    "jawaban": ["timbangan", "sayuran", "daging", "buah", "keranjang", "uang", "plastik"]
+  },
+  {
+    "soal": "Sebutkan hewan yang bergeraknya lambat!",
+    "jawaban": ["siput", "kura-kura", "kukang", "sloth", "bekicot"]
+  },
+  {
+    "soal": "Sebutkan nama-nama sate di Indonesia!",
+    "jawaban": ["sate ayam", "sate kambing", "sate padang", "sate lilit", "sate madura", "sate taichan"]
+  },
+  {
+    "soal": "Sebutkan benda yang bisa dilipat!",
+    "jawaban": ["baju", "kertas", "payung", "kursi lipat", "hp lipat", "kasur lipat"]
+  },
+  {
+    "soal": "Sebutkan hal yang bisa membuat orang menangis!",
+    "jawaban": ["sedih", "patah hati", "sakit", "terharu", "marah", "bawang merah"]
+  },
+  {
+    "soal": "Sebutkan sayuran yang biasa dimasukkan ke sayur sop!",
+    "jawaban": ["wortel", "kentang", "buncis", "kol", "daun bawang", "seledri"]
+  },
+  {
+    "soal": "Sebutkan profesi yang bekerjanya di depan komputer terus!",
+    "jawaban": ["programmer", "editor", "gamer", "desainer", "akuntan", "admin"]
+  },
+  {
+    "soal": "Sebutkan tempat orang menyembunyikan uang di rumah!",
+    "jawaban": ["lemari", "bawah kasur", "celengan", "laci", "buku", "brankas"]
+  },
+  {
+    "soal": "Sebutkan binatang buas yang ada di kebun binatang!",
+    "jawaban": ["harimau", "singa", "beruang", "buaya", "serigala", "macan"]
+  },
+  {
+    "soal": "Sebutkan barang yang sering hilang atau keselip di rumah!",
+    "jawaban": ["remot tv", "kunci", "kaos kaki", "jepit rambut", "korek api", "penghapus"]
+  },
+  {
+    "soal": "Sebutkan penyebab orang terlambat datang ke sekolah/kantor!",
+    "jawaban": ["macet", "bangun kesiangan", "ban bocor", "hujan", "ketinggalan angkutan", "sakit"]
+  },
+  {
+    "soal": "Sebutkan alasan orang pergi ke rumah sakit!",
+    "jawaban": ["sakit", "menjenguk", "periksa", "melahirkan", "ambil obat", "cek darah"]
+  },
+  {
+    "soal": "Sebutkan hal yang ditakuti oleh anak kecil!",
+    "jawaban": ["hantu", "gelap", "monster", "dokter", "anjing", "badut", "disuntik"]
+  },
+  {
+    "soal": "Sebutkan acara televisi yang disukai ibu-ibu!",
+    "jawaban": ["sinetron", "gosip", "berita", "acara masak", "kuis", "pengajian"]
+  },
+  {
+    "soal": "Sebutkan bagian ayam yang sering dimakan!",
+    "jawaban": ["paha", "dada", "sayap", "ceker", "kepala", "kulit", "usus"]
+  },
+  {
+    "soal": "Sebutkan kata-kata yang diucapkan saat berfoto!",
+    "jawaban": ["cheese", "senyum", "gaya", "satu dua tiga", "cis"]
+  },
+  {
+    "soal": "Sebutkan hewan yang berawalan huruf K!",
+    "jawaban": ["kucing", "kuda", "kambing", "katak", "kelinci", "kera", "komodo"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis hantu dari luar negeri!",
+    "jawaban": ["vampir", "zombie", "mumi", "dracula", "frankenstein"]
+  },
+  {
+    "soal": "Sebutkan alasan orang memakai kacamata hitam!",
+    "jawaban": ["gaya", "silau", "sakit mata", "ke pantai", "menyamar"]
+  },
+  {
+    "soal": "Sebutkan perlengkapan bayi yang sering dibeli!",
+    "jawaban": ["popok", "botol susu", "baju", "bedak", "dot", "kereta dorong", "minyak telon"]
+  },
+  {
+    "soal": "Sebutkan negara di benua Asia!",
+    "jawaban": ["indonesia", "jepang", "korea", "china", "malaysia", "thailand", "india"]
+  },
+  {
+    "soal": "Sebutkan nama superhero dari Marvel atau DC!",
+    "jawaban": ["spiderman", "batman", "superman", "iron man", "captain america", "thor", "hulk"]
+  },
+  {
+    "soal": "Sebutkan alasan mahasiswa telat lulus!",
+    "jawaban": ["malas", "skripsi revisi", "main game", "cuti", "dosen killer", "kerja"]
+  },
+  {
+    "soal": "Sebutkan aplikasi yang paling sering dibuka di HP!",
+    "jawaban": ["whatsapp", "tiktok", "instagram", "youtube", "facebook", "twitter", "game"]
+  },
+  {
+    "soal": "Sebutkan alasan orang menangis saat menonton film!",
+    "jawaban": ["terharu", "sedih", "tokoh utama mati", "takut", "baper"]
+  },
+  {
+    "soal": "Sebutkan tempat orang nyari sinyal HP atau WiFi!",
+    "jawaban": ["kafe", "warnet", "luar rumah", "atap", "kampus", "sekolah"]
+  },
+  {
+    "soal": "Sebutkan sesuatu yang berwarna putih!",
+    "jawaban": ["kertas", "susu", "gigi", "tulang", "awan", "kapas", "melati"]
+  },
+  {
+    "soal": "Sebutkan alat transportasi yang ada di desa!",
+    "jawaban": ["sepeda", "delman", "traktor", "gerobak", "motor", "angkot"]
+  },
+  {
+    "soal": "Sebutkan sesuatu yang dikoleksi oleh anak laki-laki!",
+    "jawaban": ["mobil mainan", "kartu", "kelereng", "sepatu", "action figure", "perangko"]
+  },
+  {
+    "soal": "Sebutkan perlengkapan yang dipakai saat hujan!",
+    "jawaban": ["payung", "jas hujan", "jaket", "sandal", "sepatu boot"]
+  },
+  {
+    "soal": "Sebutkan buah yang dalamnya berwarna kuning!",
+    "jawaban": ["pisang", "mangga", "nanas", "jeruk", "lemon", "nangka", "durian"]
+  },
+  {
+    "soal": "Sebutkan benda di sekolah yang dipakai guru!",
+    "jawaban": ["spidol", "papan tulis", "pulpen", "buku absen", "kacamata", "penghapus", "penggaris"]
+  },
+  {
+    "soal": "Sebutkan makanan penutup (dessert) yang disukai banyak orang!",
+    "jawaban": ["es krim", "kue", "puding", "cokelat", "buah", "yogurt"]
+  },
+  {
+    "soal": "Sebutkan alasan seseorang nge-block WhatsApp temannya!",
+    "jawaban": ["marah", "berisik", "banyak spam", "putus cinta", "ditagih utang", "penipu"]
+  },
+  {
+    "soal": "Sebutkan jenis burung yang sering dipelihara!",
+    "jawaban": ["lovebird", "beo", "merpati", "kenari", "kakatua", "murai"]
+  },
+  {
+    "soal": "Sebutkan kata yang sering diucapkan guru di kelas!",
+    "jawaban": ["diam", "kerjakan", "perhatikan", "mengerti", "tugas", "ulangan", "maju"]
+  },
+  {
+    "soal": "Sebutkan alat komunikasi di masa lalu!",
+    "jawaban": ["surat", "kentongan", "telepon kabel", "telegram", "merpati pos", "sandi morse"]
+  },
+  {
+    "soal": "Sebutkan makanan khas Lebaran di Indonesia!",
+    "jawaban": ["ketupat", "opor ayam", "rendang", "nastar", "kastengel", "kue salju"]
+  },
+  {
+    "soal": "Sebutkan sesuatu yang keluar dari gunung meletus!",
+    "jawaban": ["lava", "asap", "abu", "lahar", "batu", "api"]
+  },
+  {
+    "soal": "Sebutkan benda yang ada di meja rias wanita!",
+    "jawaban": ["sisir", "bedak", "lipstik", "cermin", "parfum", "kaca", "jepit rambut"]
+  }
+]
